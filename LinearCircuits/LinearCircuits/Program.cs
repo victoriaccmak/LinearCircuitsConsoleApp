@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 using System.Threading.Tasks;
@@ -33,6 +34,7 @@ namespace LinearCircuits
                 Console.WriteLine("F) Delete node");
                 Console.WriteLine("G) Delete branch");
                 Console.WriteLine("H) Exit");
+                Console.WriteLine("I) Thevenin equivalent");
 
                 string option = Console.ReadLine().ToLower().Trim();
                 Console.Clear();
@@ -336,6 +338,54 @@ namespace LinearCircuits
                         running = false;
                         break;
 
+                    case "i":
+                        if (nodes.Count >= 2)
+                        {
+                            Branch b;
+                            Node[] nodePair = new Node[2];
+                            float thevVolt;
+
+                            Console.WriteLine("Choose 2 nodes.");
+
+                            for (int j = 1; j < 3; j++)
+                            {
+                                valid = false;
+
+                                while (!valid)
+                                {
+                                    Console.Write("Node " + j + ": ");
+                                    option = Console.ReadLine();
+
+                                    for (int i = 0; i < nodes.Count; i++)
+                                    {
+                                        if (nodes[i].GetName().Equals(option.ToUpper().Trim()))
+                                        {
+                                            valid = true;
+                                            nodePair[j - 1] = nodes[i];
+
+                                            if (j == 2)
+                                            {
+                                                if (nodePair[0] == nodePair[1])
+                                                {
+                                                    valid = false;
+                                                }
+                                            }
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
+
+                            CalcNodalVoltages(nodePair[0]);
+                            thevVolt = Math.Abs(nodePair[1].GetV());
+
+                            Console.WriteLine("Thevenin Voltage: " + Math.Abs(nodePair[1].GetV()) + "V");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Not enough nodes in the circuit.");
+                        }
+                        break;
                     default:
                         Console.WriteLine("Invalid option. Try again");
                         break;

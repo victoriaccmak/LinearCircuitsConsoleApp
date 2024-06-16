@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\",
+  "WorkspaceRootPath": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|c:\\users\\am_admin\\desktop\\personalproject\\linearcircuits\\linearcircuits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|c:\\users\\am_admin\\desktop\\personalproject\\linearcircuitsconsoleapp\\linearcircuits\\linearcircuits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\vsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\vsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\vsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\vcvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\vcvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\vcvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\vccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\vccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\vccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\ccvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\ccvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\ccvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\isource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\isource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\isource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\linearcircuits\\cccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\linearcircuits\\cccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DB3BEB-4F34-4145-8223-D5F8375B2F17}|LinearCircuits\\LinearCircuits.csproj|solutionrelative:linearcircuits\\cccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Branch.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Branch.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\Branch.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Branch.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Branch.cs",
               "RelativeToolTip": "LinearCircuits\\Branch.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAwwDkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CCVS.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\CCVS.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\CCVS.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\CCVS.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\CCVS.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\CCVS.cs",
               "RelativeToolTip": "LinearCircuits\\CCVS.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +82,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Program.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\Program.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Program.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Program.cs",
               "RelativeToolTip": "LinearCircuits\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAnAAAA",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAuwGoBAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T23:20:47.394Z",
               "IsPinned": true,
@@ -94,23 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VCCS.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VCCS.cs",
-              "RelativeDocumentMoniker": "LinearCircuits\\VCCS.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VCCS.cs",
-              "RelativeToolTip": "LinearCircuits\\VCCS.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T01:58:42.941Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Resistor.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Resistor.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Resistor.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\Resistor.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Resistor.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Resistor.cs",
               "RelativeToolTip": "LinearCircuits\\Resistor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "VCVS.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VCVS.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VCVS.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\VCVS.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VCVS.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VCVS.cs",
               "RelativeToolTip": "LinearCircuits\\VCVS.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ISource.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\ISource.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\ISource.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\ISource.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\ISource.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\ISource.cs",
               "RelativeToolTip": "LinearCircuits\\ISource.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "VSource.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VSource.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VSource.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\VSource.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\VSource.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VSource.cs",
               "RelativeToolTip": "LinearCircuits\\VSource.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,21 +144,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Node.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Node.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\Node.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\Node.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\Node.cs",
               "RelativeToolTip": "LinearCircuits\\Node.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAwFEAAAAaAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T23:21:46.53Z"
+              "WhenOpened": "2024-03-03T23:21:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VCCS.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VCCS.cs",
+              "RelativeDocumentMoniker": "LinearCircuits\\VCCS.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\VCCS.cs",
+              "RelativeToolTip": "LinearCircuits\\VCCS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:58:42.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CCCS.cs",
-              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\CCCS.cs",
+              "DocumentMoniker": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\CCCS.cs",
               "RelativeDocumentMoniker": "LinearCircuits\\CCCS.cs",
-              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuits\\LinearCircuits\\CCCS.cs",
+              "ToolTip": "C:\\Users\\AM_admin\\Desktop\\PersonalProject\\LinearCircuitsConsoleApp\\LinearCircuits\\LinearCircuits\\CCCS.cs",
               "RelativeToolTip": "LinearCircuits\\CCCS.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

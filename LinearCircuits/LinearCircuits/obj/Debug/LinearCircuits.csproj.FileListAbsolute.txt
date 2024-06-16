@@ -5,3 +5,10 @@ C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuits\LinearCircuits\obj\Debu
 C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.exe
 C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.pdb
 C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.csprojAssemblyReference.cache
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\bin\Debug\LinearCircuits.exe.config
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\bin\Debug\LinearCircuits.exe
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\bin\Debug\LinearCircuits.pdb
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.csproj.AssemblyReference.cache
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.csproj.CoreCompileInputs.cache
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.exe
+C:\Users\AM_admin\Desktop\PersonalProject\LinearCircuitsConsoleApp\LinearCircuits\LinearCircuits\obj\Debug\LinearCircuits.pdb
